@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "744ffdeb-70c0-428f-8710-8f7884e8cf51",
+      "title": "Long Sleeve Shirt",
+      "price": "150.00",
+      "image": "https://preview.colorlib.com/theme/shop/img/l7.jpg.webp"
+    },
+    {
+      "id": "3c566d4b-4c1d-4acb-8084-0457761f6e93",
+      "title": "Long Sleeve Shirt",
+      "price": "150.00",
+      "image": "https://preview.colorlib.com/theme/shop/img/l6.jpg.webp"
+    }
+  ]
+}
